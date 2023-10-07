@@ -1,4 +1,5 @@
-scratch-gui modified for use in [TurboWarp](https://turbowarp.org/) then modified for use in [PenguinMod](https://penguinmod.github.io/penguinmod.github.io/) and THEN forked by some random guy to experiment on 😀
+scratch-gui modified for use in [TurboWarp](https://turbowarp.org/) then modified for use in [PenguinMod](https://penguinmod.github.io/penguinmod.github.io/) and THEN forked by some random guy to experiment on lol
+
 [PenguinMod's Gitpod](https://gitpod.io/#https://github.com/PenguinMod/penguinmod.github.io/)
 
 also this has some problems with it's mental state when i commit changes and becomes a readme page pls help pls help pls help pls help
